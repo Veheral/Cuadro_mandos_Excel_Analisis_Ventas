@@ -1,4 +1,5 @@
-# Cuadro_mandos_Excel_Analisis_Ventas
+# El objetivo principal es proporcionar una herramienta visual que permita comprender el comportamiento comercial, identificar tendencias y apoyar la toma de decisiones estratégicas.
+
 Cuadro de Mando de Análisis de Ventas
 
 Este proyecto desarrolla un cuadro de mando interactivo para analizar el rendimiento de ventas de una empresa de distribución alimentaria. A partir de un dataset realista con más de 1.200 registros de pedidos, se construye un modelo de análisis que permite explorar ingresos, cantidades vendidas, categorías de producto, desempeño por región, vendedores, clientes y métodos de pago.
